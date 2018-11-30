@@ -1,0 +1,49 @@
+PODS:
+  - GrowingTextView (0.6.1)
+  - IQKeyboardManagerSwift (6.0.5)
+  - PasswordTextField (1.2.0)
+  - SwiftKeychainWrapper (3.0.1)
+  - SwiftLint (0.27.0)
+  - SwiftValidator (4.0.0)
+  - UIColor_Hex_Swift (4.2.0)
+
+DEPENDENCIES:
+  - GrowingTextView (= 0.6.1)
+  - IQKeyboardManagerSwift (~> 6.0.4)
+  - PasswordTextField (= 1.2.0)
+  - SwiftKeychainWrapper (= 3.0.1)
+  - SwiftLint (= 0.27.0)
+  - SwiftValidator (from `https://github.com/jpotts18/SwiftValidator.git`, branch `master`)
+  - UIColor_Hex_Swift (~> 4.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GrowingTextView
+    - IQKeyboardManagerSwift
+    - PasswordTextField
+    - SwiftKeychainWrapper
+    - SwiftLint
+    - UIColor_Hex_Swift
+
+EXTERNAL SOURCES:
+  SwiftValidator:
+    :branch: master
+    :git: https://github.com/jpotts18/SwiftValidator.git
+
+CHECKOUT OPTIONS:
+  SwiftValidator:
+    :commit: c0ee801a2d107eca5f748d07932b449666d8effd
+    :git: https://github.com/jpotts18/SwiftValidator.git
+
+SPEC CHECKSUMS:
+  GrowingTextView: 335aefa45df7df06b01edede1363414d6ee5d6bc
+  IQKeyboardManagerSwift: c14eca30f6001457d6ddf25e313f23fb6578c41c
+  PasswordTextField: 2548de43f150fc90a014da47b0d97e31aada4b94
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+  SwiftLint: 3207c1faa2240bf8973b191820a116113cd11073
+  SwiftValidator: 25ded5ca1f10c05adf57f6ac82a72d28ac8d91af
+  UIColor_Hex_Swift: bc07fc197421ee896b9ed6dcfa2054b7fbf75145
+
+PODFILE CHECKSUM: 76db000a8e1be81c8851155a2f866dcdc9b93b0c
+
+COCOAPODS: 1.6.0.beta.2

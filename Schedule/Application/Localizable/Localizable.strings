@@ -1,0 +1,51 @@
+
+
+"alert.title_error"     = "Error";
+"alert.action_ok"       = "Ok";
+"app_version.name"      = "Version";
+"region_identifier"     = "en_US";
+//TODO: Update this date when implement full internacionalization
+"date_format"           = "dd/MM/yyyy";
+"date_format_day_month" = "MM/dd";
+"app_name"              = "Tracking";
+"tracking_title"        = "Tracking";
+"dashboard_title"       = "Dashboard";
+
+"date.months_abbr.january"      = "JAN";
+"date.months_abbr.february"     = "FEB";
+"date.months_abbr.march"        = "MAR";
+"date.months_abbr.april"        = "APR";
+"date.months_abbr.may"          = "MAY";
+"date.months_abbr.june"         = "JUN";
+"date.months_abbr.July"         = "JUL";
+"date.months_abbr.august"       = "AUG";
+"date.months_abbr.september"    = "SEP";
+"date.months_abbr.october"      = "OCT";
+"date.months_abbr.november"     = "NOV";
+"date.months_abbr.december"     = "DEC";
+
+
+//MARK: Login View Controller
+"login_view_controller.email_text_field_placeholder"    = "E-mail";
+"login_view_controller.password_field_placeholder"      = "Password";
+"login_view_controller.forgot_password_field_label"     = "Forgot your password?";
+"login_view_controller.register_label"                  = "Register";
+"login_view_controller.slogan_field_label"              = "Your site under control.";
+"login_view_controller.navbar_title"                    = "Login";
+"login_view_controller_button_title"                    = "Enter";
+
+
+//MARK: Login Validation
+"swift_validator.email_empty_message"       = "E-mail required";
+"swift_validator.email_invalid_message"     = "E-mail invalid";
+"swift_validator.password_empty_message"    = "Password required";
+
+"login_validation.unauthorized_message" = "Email and/or password are invalid.";
+"login_validation.offline_message"      = "You are offline, check your internet connection";
+"login_validation.unknown_error"        = "An error occurred, please contact our support and try again";
+
+"login_sync.error_message" = "There was some sync problem. We made a few attempts, but without success. Please try again";
+
+//MARK: Generic Validation
+"required_field" = "Required field";
+"invalid_email" = "Invalid E-mail";
